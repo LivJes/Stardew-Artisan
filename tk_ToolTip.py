@@ -2,13 +2,10 @@
 gives a Tkinter widget a tooltip as the mouse is above the widget
 tested with Python27 and Python34  by  vegaseat  09sep2014
 '''
-try:
-    # for Python2
-    import Tkinter as tk
-except ImportError:
-    # for Python3
-    import tkinter as tk
-    import time
+
+import tkinter as tk
+import time
+
 class CreateToolTip(object):
     '''
     create a tooltip for a given widget

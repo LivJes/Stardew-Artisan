@@ -13,8 +13,8 @@ cropData = []
 images = []
 
 def initialize_window():
-    root.iconbitmap("Images\Keg.ico")
-    root.title("Stardew Artisan v1.0")
+    root.iconbitmap("Keg.ico")
+    root.title("Stardew Artisan")
     root.geometry("800x800")
     def make_frames():
         pictureFrame = Frame(root, height = 50)
@@ -191,7 +191,6 @@ def main():
     read_log()
     read_data()
     recalculate(options[0], options[1], options[2])
-    root.mainloop()
 
 main()
-        
+root.mainloop()
