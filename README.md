@@ -1,4 +1,4 @@
-<b> Update: At the moment I'm trying to resolve problem with making the python script into a binary.</b>
+<b> Update: At the moment I'm trying to resolve a problem with making the python script into a binary.</b>
 
 
 # Stardew-Artisan
@@ -19,5 +19,5 @@ I intend to add more features maybe even prices of crops themselves.
 
 
 
-Also don't mind the crappy programming, this whole project started because of me wanting to practice while doing something that feels I might use.
+Also don't mind the crappy programming, this whole project started because of me wanting to practice while doing something that feels like something I might use.
 Enjoy! :potato:
