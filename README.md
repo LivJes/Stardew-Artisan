@@ -15,5 +15,5 @@ I intend to add more features maybe even prices of crops themselves.
 
 
 
-Also don't mind the crappy programming, this whole project started as me wanting to practice while doing something that feels I might use.
+Also don't mind the crappy programming, this whole project started because of me wanting to practice while doing something that feels I might use.
 Enjoy! :potato:
