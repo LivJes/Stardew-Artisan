@@ -1,6 +1,3 @@
-<b> Update: At the moment I'm trying to resolve a problem with making the python script into a binary.</b>
-
-
 # Stardew-Artisan
 
 Standalone program used for checking prices of artisan goods in Stardew Valley game.
