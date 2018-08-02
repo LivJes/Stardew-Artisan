@@ -1,1 +1,1 @@
-Artisan Profession=OFF
+Artisan Profession=ON

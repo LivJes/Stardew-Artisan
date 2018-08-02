@@ -192,5 +192,5 @@ def main():
     read_data()
     recalculate(options[0], options[1], options[2])
 
-main()
+if __name__ == '__main__':main()
 root.mainloop()
