@@ -11,7 +11,7 @@ prices of quality artisan goods (wine/pale ale/beer with stars).
 You can switch between keg and jar prices while filtering the crops, there's also an option for Artisan Profession which will recalculate
 the prices of the crops.
 
-![preview]
+![preview](https://github.com/LivJes/Stardew-Artisan/blob/master/preview_image.png)
 
 I intend to add more features maybe even prices of crops themselves.
 
