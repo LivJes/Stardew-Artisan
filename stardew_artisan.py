@@ -160,10 +160,7 @@ def sort_order(cost, order):
     
 def log_prof():
     logFile = open("stardew_artisan_log.txt", "w")
-    if artisanStatus.get() == 0:
-        statusText = "OFF"
-    else:
-        statusText = "ON"
+    statusText = "OFF" if artisanStatus.get() == 0 else "ON"
     logFile.write("Artisan Profession=%s\n" %statusText)
     recalculate(options[0], options[1], options[2])
 
